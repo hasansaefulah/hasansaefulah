@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**hasansaefulah/hasansaefulah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hasan Saefulah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Developer**
+
+Building skills, chasing ideas, and creating things that matter.
+
+</div>
+
+---
+
+### About me
+
+I build and maintain websites, explore new ideas, and enjoy turning concepts into useful digital experiences.
+
+- Currently developing and improving websites
+- Interested in web technologies and problem-solving
+- Gaming enthusiast 
+
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,lua,mysql" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm,composer,androidstudio,xcode" />
+</p>
+
+### Projects
+
+- **Personal Portfolio** — showcasing my work and skills.
+- **Game Top-Up Store** — a website for gaming top-ups.
+- **School Website** — a digital platform for school information.
+
+---
+
+<div align="center">
+
+*Quietly building, constantly learning.*
+
+</div>
