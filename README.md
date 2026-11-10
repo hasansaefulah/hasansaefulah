@@ -28,7 +28,7 @@ I build and maintain websites, explore new ideas, and enjoy turning concepts int
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm,composer,androidstudio,xcode" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm,androidstudio,xcode" />
 </p>
 
 ### Projects
